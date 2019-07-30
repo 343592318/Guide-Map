@@ -1,7 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea0efc01-bb79-4f4d-aace-51931ed583eb" name="Default Changelist" comment="" />
+    <list default="true" id="68ea595a-f6ce-408e-9d76-7b7860da8681" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GuideMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GuideMap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/DataBase/DataCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/DataBase/GetList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/DrawAL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/DrawIcon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/NowTime$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/NowTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/LinkedNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/Nuture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/RoadMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/SplitMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/SpotMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/UserMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Clean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Delete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/DeleteRoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ImageUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Move.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/SaveUserMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/StarChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$beijing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/ArrowLinePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/DbUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/DrawFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI$EditorListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI$FilterComboPopup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/MD5Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/SwingUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Algorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Beautifal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Dijkstra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Faster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Floyd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Greening.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYSQL/SQLyogEnterprise.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYSQL/guide.sql" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,43 +137,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Algorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithm/Beautifal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="330">
+              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Dijkstra.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Login/LoginFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+            <state relative-caret-position="478">
+              <caret line="415" column="5" lean-forward="true" selection-start-line="415" selection-start-column="5" selection-end-line="415" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,45 +163,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="571" column="5" selection-start-line="571" selection-start-column="5" selection-end-line="571" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="174" column="17" selection-start-line="174" selection-start-column="17" selection-end-line="174" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../University Guide/lib/philosopher3610_9324005.jar!/java/lang/ClassLoader.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="525" column="48" selection-start-line="525" selection-start-column="48" selection-end-line="525" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#31129#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://D:/jdk/lib/src.zip!/java.base/java/lang/ClassLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="524" column="43" selection-start-line="524" selection-start-column="43" selection-end-line="524" selection-end-column="43" />
+            <state relative-caret-position="300">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -102,9 +183,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2007" />
-    <option name="y" value="-21" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1913" />
+    <option name="y" value="2" />
     <option name="width" value="1932" />
     <option name="height" value="1045" />
   </component>
@@ -113,30 +194,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="GUIDE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GUIDE" type="462c0819:PsiDirectoryNode" />
+              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GUIDE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GUIDE" type="462c0819:PsiDirectoryNode" />
+              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GUIDE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GUIDE" type="462c0819:PsiDirectoryNode" />
+              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,52 +287,63 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="874000" />
+    <option name="totallyTimeSpent" value="1295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Learn" weight="0.32995737" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11673774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12793177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" weight="0.20801733" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" weight="0.32995737" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27735645" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27657267" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="9" weight="0.20801733" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/algorithm/Beautifal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -263,16 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Login/LoginFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/jdk/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -287,20 +375,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../University Guide/lib/philosopher3610_9324005.jar!/java/lang/ClassLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="525" column="48" selection-start-line="525" selection-start-column="48" selection-end-line="525" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#31129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../University Guide/lib/philosopher3610_9324005.jar!/java/lang/ClassLoader.class" />
     <entry file="jar://D:/jdk/lib/src.zip!/java.base/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="524" column="43" selection-start-line="524" selection-start-column="43" selection-end-line="524" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="415" column="5" lean-forward="true" selection-start-line="415" selection-start-column="5" selection-end-line="415" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -355,7 +451,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>GUIDE</last-edited>
+          <last-edited>GuideMap</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
