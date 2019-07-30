@@ -1,134 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68ea595a-f6ce-408e-9d76-7b7860da8681" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GuideMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GuideMap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/DataBase/DataCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/DataBase/GetList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/DrawAL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/DrawIcon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/NowTime$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/NowTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/LinkedNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/Nuture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/RoadMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/SplitMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/SpotMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/UserMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Clean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Delete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/DeleteRoad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ImageUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Move.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/SaveUserMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/StarChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$beijing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/ArrowLinePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/DbUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/DrawFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI$EditorListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI$FilterComboPopup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/MD5Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/SwingUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Algorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Beautifal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Dijkstra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Faster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Floyd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Greening.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MYSQL/SQLyogEnterprise.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MYSQL/guide.sql" beforeDir="false" />
-    </list>
+    <list default="true" id="68ea595a-f6ce-408e-9d76-7b7860da8681" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -153,20 +26,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Login/LoginFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="415" column="5" lean-forward="true" selection-start-line="415" selection-start-column="5" selection-end-line="415" selection-end-column="5" />
+            <state relative-caret-position="28">
+              <caret line="400" column="35" selection-start-line="400" selection-start-column="35" selection-end-line="400" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -233,7 +97,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../University Guide/lib/philosopher3610_9324005.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -287,7 +151,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1295000" />
+    <option name="totallyTimeSpent" value="1802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -392,8 +256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Login/LoginFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="415" column="5" lean-forward="true" selection-start-line="415" selection-start-column="5" selection-end-line="415" selection-end-column="5" />
+        <state relative-caret-position="28">
+          <caret line="400" column="35" selection-start-line="400" selection-start-column="35" selection-end-line="400" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
