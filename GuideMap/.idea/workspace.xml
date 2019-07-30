@@ -1,133 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b94bcb0-0984-440b-b0e4-e6ec53b9c0a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GuideMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GuideMap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/DataBase/DataCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/DataBase/DataCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/DataBase/GetList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/DataBase/GetList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/DrawAL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Draw/DrawAL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/DrawIcon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Draw/DrawIcon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/NowTime$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Draw/NowTime$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Draw/NowTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Draw/NowTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/LoginFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/Register$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Login/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Login/Register.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/LinkedNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Message/LinkedNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/Nuture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Message/Nuture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/RoadMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Message/RoadMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/SplitMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Message/SplitMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/SpotMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Message/SpotMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Message/UserMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Message/UserMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/Change.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangePassword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ChangeRoad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Clean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/Clean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Delete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/Delete.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/DeleteRoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/DeleteRoad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/ImageUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/ImageUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/Move.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/New$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/New.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/New.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/NewRoad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/QuerySpot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/SaveUserMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/SaveUserMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Operation/StarChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Operation/StarChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$beijing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame$beijing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Use/UserFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/ArrowLinePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/ArrowLinePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/DbUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/DbUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/DrawFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/DrawFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI$EditorListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI$EditorListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI$FilterComboPopup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI$FilterComboPopup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox$MetalFilterComboBoxUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/JFilterComboBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/MD5Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/MD5Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/SwingUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/SwingUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/Utils/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Algorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Algorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Beautifal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Beautifal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Dijkstra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Faster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Faster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Floyd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Floyd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Greening.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuideMap/algorithm/Greening.class" afterDir="false" />
-    </list>
+    <list default="true" id="ea0efc01-bb79-4f4d-aace-51931ed583eb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,30 +10,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-=======
-        <entry file="file://$PROJECT_DIR$/src/Utils/MD5Utils.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/Algorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
->>>>>>> 79154b2ed3141a64b3f8313247e2b16097ce0f15
-        <entry file="file://$PROJECT_DIR$/src/Utils/JFilterComboBox.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/Beautifal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="120">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -167,22 +36,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithm/Dijkstra.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Utils/DbUtils.java">
+        <entry file="file://$PROJECT_DIR$/src/Login/LoginFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="240">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-=======
-            <state relative-caret-position="210">
-              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
->>>>>>> 79154b2ed3141a64b3f8313247e2b16097ce0f15
+            <state relative-caret-position="578">
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -191,260 +55,101 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Greening.java">
+        <entry file="jar://D:/jdk/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2160">
-              <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+            <state relative-caret-position="152">
+              <caret line="571" column="5" selection-start-line="571" selection-start-column="5" selection-end-line="571" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/jdk/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="174" column="17" selection-start-line="174" selection-start-column="17" selection-end-line="174" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../University Guide/lib/philosopher3610_9324005.jar!/java/lang/ClassLoader.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="525" column="48" selection-start-line="525" selection-start-column="48" selection-end-line="525" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#31129#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Floyd.java">
+        <entry file="jar://D:/jdk/lib/src.zip!/java.base/java/lang/ClassLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="77" column="65" selection-start-line="77" selection-start-column="65" selection-end-line="77" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Operation/Delete.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Operation/Clean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Operation/ChangePassword.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2835">
-              <caret line="114" column="63" selection-start-line="114" selection-start-column="63" selection-end-line="114" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Login/Register.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1674">
-              <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Operation/ChangeRoad.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3915">
-              <caret line="157" column="55" selection-start-line="157" selection-start-column="55" selection-end-line="157" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="324">
+              <caret line="524" column="43" selection-start-line="524" selection-start-column="43" selection-end-line="524" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>xingbiao</find>
-      <find>xingbiaos</find>
-      <find>chaxun</find>
-      <find>System</find>
-      <find>chaxunButton</find>
-      <find>chakandaolu</find>
-      <find>BufferedImage</find>
-      <find>Result</find>
-      <find>setText</find>
-      <find>name</find>
-      <find>aut</find>
-      <find>autolo</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>Image</replace>
-    </replaceStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Message/AdminMessage.java" />
-        <option value="$PROJECT_DIR$/src/UserFrame/UserFrame.java" />
-        <option value="$PROJECT_DIR$/src/Message/SpotMessage.java" />
-        <option value="$PROJECT_DIR$/src/Message/RoadMessage.java" />
-        <option value="$PROJECT_DIR$/src/DataBase/GetList.java" />
-        <option value="$PROJECT_DIR$/src/DataBase/DataCheck.java" />
-        <option value="$PROJECT_DIR$/src/Operation/SaveImage.java" />
-        <option value="$PROJECT_DIR$/src/Draw/DrawIcon.java" />
-        <option value="$PROJECT_DIR$/src/componet/JFilterComboBox.java" />
-        <option value="$PROJECT_DIR$/src/componet/MyJComboBox.java" />
-        <option value="$PROJECT_DIR$/src/componet/Test.java" />
-        <option value="$PROJECT_DIR$/src/info.properties" />
-        <option value="$PROJECT_DIR$/src/c3p0-config.xml" />
-        <option value="$PROJECT_DIR$/src/Operation/Delete.java" />
-        <option value="$PROJECT_DIR$/src/Message/UserMessage.java" />
-        <option value="$PROJECT_DIR$/src/Operation/DeleteRoad.java" />
-        <option value="$PROJECT_DIR$/src/Operation/ImageUser.java" />
-        <option value="$PROJECT_DIR$/src/Operation/Move.java" />
-        <option value="$PROJECT_DIR$/src/Operation/StarChange.java" />
-        <option value="$PROJECT_DIR$/src/Operation/QuerySpot.java" />
-        <option value="$PROJECT_DIR$/src/Operation/Change.java" />
-        <option value="$PROJECT_DIR$/src/Operation/NewRoad.java" />
-        <option value="$PROJECT_DIR$/src/Operation/ChangeRoad.java" />
-        <option value="$PROJECT_DIR$/src/Operation/New.java" />
-        <option value="$PROJECT_DIR$/src/html.html" />
-        <option value="$PROJECT_DIR$/src/algorithm/Faster.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/Floyd.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/Greening.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/Algorithm.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/Beautifal.java" />
-        <option value="$PROJECT_DIR$/src/Druid.properties" />
-        <option value="$PROJECT_DIR$/src/Utils/DbUtils.java" />
-        <option value="$PROJECT_DIR$/src/Html.html" />
-        <option value="$PROJECT_DIR$/src/Login/Register.java" />
-        <option value="$PROJECT_DIR$/src/Operation/ChangePassword.java" />
-        <option value="$PROJECT_DIR$/src/Operation/SaveUserMessage.java" />
-        <option value="$PROJECT_DIR$/src/Utils/MD5Utils.java" />
-        <option value="$PROJECT_DIR$/src/Use/UserFrame.java" />
         <option value="$PROJECT_DIR$/src/Login/LoginFrame.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/Dijkstra.java" />
-        <option value="$PROJECT_DIR$/src/druid.properties" />
       </list>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1913" />
-    <option name="y" value="2" />
+    <option name="x" value="2007" />
+    <option name="y" value="-21" />
     <option name="width" value="1932" />
     <option name="height" value="1045" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="Scope" />
-=======
->>>>>>> 79154b2ed3141a64b3f8313247e2b16097ce0f15
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
+              <item name="GUIDE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GUIDE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
+              <item name="GUIDE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GUIDE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
+              <item name="GUIDE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GUIDE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Operation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Use" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuideMap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideMap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
-      <pane id="Scope" />
->>>>>>> 79154b2ed3141a64b3f8313247e2b16097ce0f15
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../University Guide/lib/philosopher3610_9324005.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\IdeaProjects\GuideMap\src\lib" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\IdeaProjects\GuideMap\src\Utils" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -458,34 +163,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LoginFrame">
-    <configuration name="ImageUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operation.ImageUser" />
-      <module name="GuideMap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Operation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JFilterComboBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Utils.JFilterComboBox" />
-      <module name="GuideMap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginFrame" type="Application" factoryName="Application" singleton="true" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="LoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Login.LoginFrame" />
       <module name="GuideMap" />
       <extension name="coverage">
@@ -498,21 +179,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="html.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GuideMap/html.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.ImageUser" />
-      <item itemvalue="Application.JFilterComboBox" />
-      <item itemvalue="Application.LoginFrame" />
-      <item itemvalue="JavaScript Debug.html.html" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.LoginFrame" />
-        <item itemvalue="JavaScript Debug.html.html" />
-        <item itemvalue="Application.JFilterComboBox" />
-        <item itemvalue="Application.ImageUser" />
       </list>
     </recent_temporary>
   </component>
@@ -521,533 +190,117 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b94bcb0-0984-440b-b0e4-e6ec53b9c0a0" name="Default Changelist" comment="" />
-      <created>1563881636007</created>
+      <changelist id="ea0efc01-bb79-4f4d-aace-51931ed583eb" name="Default Changelist" comment="" />
+      <created>1563880757812</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563881636007</updated>
-      <workItem from="1563881638167" duration="6176000" />
-      <workItem from="1563926095089" duration="24927000" />
-      <workItem from="1563972686997" duration="49000" />
-      <workItem from="1564012799884" duration="465000" />
-      <workItem from="1564013370542" duration="76926000" />
-      <workItem from="1564405233501" duration="17000" />
-      <workItem from="1564405425406" duration="3883000" />
-      <workItem from="1564409520818" duration="1391000" />
-      <workItem from="1564452714500" duration="99000" />
-<<<<<<< HEAD
-      <workItem from="1564455795817" duration="928000" />
-      <workItem from="1564471344285" duration="247000" />
-      <workItem from="1564472016852" duration="986000" />
-      <workItem from="1564473046935" duration="55000" />
-=======
-      <workItem from="1564459746384" duration="793000" />
->>>>>>> 79154b2ed3141a64b3f8313247e2b16097ce0f15
+      <updated>1563880757812</updated>
+      <workItem from="1563880762973" duration="874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="116289000" />
+    <option name="totallyTimeSpent" value="874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17697228" />
-=======
-    <option name="totallyTimeSpent" value="115547000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1932" height="1045" extended-state="1" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17254274" />
->>>>>>> 79154b2ed3141a64b3f8313247e2b16097ce0f15
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Learn" weight="0.32995737" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11673774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" weight="0.20801733" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23318872" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27735645" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3264642" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" order="11" weight="0.037919827" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.19609967" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Maven" order="8" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="master" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Login/LoginFrame.java</url>
-          <line>298</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DataBase/GetList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="83" column="31" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataBase/DataCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1110">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-          <folding>
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/lib/src.zip!/java.desktop/javax/swing/DefaultButtonModel.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.890.4761/HZ$D.890.4762/GuideMap/src/algorithm/Faster.java" />
-    <entry file="file://$PROJECT_DIR$/src/Draw/DrawIcon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/SwingUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="254" column="35" selection-start-line="254" selection-start-column="35" selection-end-line="254" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3861#3862#0" expanded="true" />
-            <element signature="e#3905#3906#0" expanded="true" />
-            <element signature="e#3962#3963#0" expanded="true" />
-            <element signature="e#4006#4007#0" expanded="true" />
-            <element signature="e#4064#4065#0" expanded="true" />
-            <element signature="e#4108#4109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/src/lib/c3p0-0.9.5.2-sources.jar!/com/mchange/v2/resourcepool/BasicResourcePoolFactory.java" />
-    <entry file="jar://$PROJECT_DIR$/src/lib/c3p0-0.9.5.2-sources.jar!/com/mchange/v2/resourcepool/ResourcePool.java" />
-    <entry file="jar://$PROJECT_DIR$/src/lib/c3p0-0.9.5.2-sources.jar!/com/mchange/v2/resourcepool/BasicResourcePool.java" />
-    <entry file="jar://$PROJECT_DIR$/src/lib/c3p0-0.9.5.2-sources.jar!/com/mchange/Debug.java" />
-    <entry file="file://$PROJECT_DIR$/src/info.properties" />
-    <entry file="file://$PROJECT_DIR$/src/Message/RoadMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="81" column="36" lean-forward="true" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
-          <folding>
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1265#1266#0" expanded="true" />
-            <element signature="e#1318#1319#0" expanded="true" />
-            <element signature="e#1358#1359#0" expanded="true" />
-            <element signature="e#1400#1401#0" expanded="true" />
-            <element signature="e#1433#1434#0" expanded="true" />
-            <element signature="e#1473#1474#0" expanded="true" />
-            <element signature="e#1504#1505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Message/SplitMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Message/SpotMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1270">
-          <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Message/UserMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operation/DeleteRoad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operation/ImageUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-494">
-          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3609#3610#0" expanded="true" />
-            <element signature="e#3641#3642#0" expanded="true" />
-            <element signature="e#3681#3682#0" expanded="true" />
-            <element signature="e#3713#3714#0" expanded="true" />
-            <element signature="e#3744#3745#0" expanded="true" />
-            <element signature="e#3771#3772#0" expanded="true" />
-            <element signature="e#3802#3803#0" expanded="true" />
-            <element signature="e#3829#3830#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operation/Move.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operation/StarChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/lib/src.zip!/java.sql/java/sql/PreparedStatement.java" />
-    <entry file="file://$PROJECT_DIR$/src/Operation/New.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="134" column="111" selection-start-line="134" selection-start-column="111" selection-end-line="134" selection-end-column="111" />
-          <folding>
-            <element signature="e#1856#2148#0" expanded="true" />
-            <element signature="e#2147#2148#0" expanded="true" />
-            <element signature="e#2439#2732#0" expanded="true" />
-            <element signature="e#2731#2732#0" expanded="true" />
-            <element signature="e#4004#4304#0" expanded="true" />
-            <element signature="e#4303#4304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operation/NewRoad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="159" column="113" selection-start-line="159" selection-start-column="113" selection-end-line="159" selection-end-column="113" />
-          <folding>
-            <element signature="e#1989#2245#0" expanded="true" />
-            <element signature="e#2244#2245#0" expanded="true" />
-            <element signature="e#2275#2531#0" expanded="true" />
-            <element signature="e#2530#2531#0" expanded="true" />
-            <element signature="e#2561#2817#0" expanded="true" />
-            <element signature="e#2816#2817#0" expanded="true" />
-            <element signature="e#2847#3103#0" expanded="true" />
-            <element signature="e#3102#3103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operation/QuerySpot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1662">
-          <caret line="71" column="48" lean-forward="true" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
-          <folding>
-            <element signature="e#3346#3741#0" expanded="true" />
-            <element signature="e#3740#3741#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Algorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/Beautifal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1320">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Message/LinkedNode.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuideMap.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Faster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Message/Nuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/c3p0-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="607" column="14" lean-forward="true" selection-start-line="607" selection-start-column="14" selection-end-line="607" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Html.html" />
-    <entry file="file://$PROJECT_DIR$/src/Operation/SaveUserMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-          <folding>
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/lib/src.zip!/java.base/java/util/HashMap.java" />
-    <entry file="file://$PROJECT_DIR$/src/Operation/Change.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Login/LoginFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7440">
-          <caret line="271" column="48" selection-start-line="271" selection-start-column="48" selection-end-line="271" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/lib/src.zip!/java.desktop/javax/swing/JComboBox.java" />
-    <entry file="file://$PROJECT_DIR$/src/Use/UserFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="123" column="18" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/druid.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="7" selection-start-line="5" selection-start-column="12" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/MD5Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/JFilterComboBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/Dijkstra.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/DbUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Algorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="120">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Greening.java">
+    <entry file="jar://D:/jdk/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2160">
-          <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+        <state relative-caret-position="152">
+          <caret line="571" column="5" selection-start-line="571" selection-start-column="5" selection-end-line="571" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operation/Delete.java">
+    <entry file="jar://D:/jdk/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+        <state relative-caret-position="122">
+          <caret line="174" column="17" selection-start-line="174" selection-start-column="17" selection-end-line="174" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operation/Clean.java">
+    <entry file="jar://$PROJECT_DIR$/../University Guide/lib/philosopher3610_9324005.jar!/java/lang/ClassLoader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operation/ChangePassword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2835">
-          <caret line="114" column="63" selection-start-line="114" selection-start-column="63" selection-end-line="114" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Login/Register.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operation/ChangeRoad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3915">
-          <caret line="157" column="55" selection-start-line="157" selection-start-column="55" selection-end-line="157" selection-end-column="55" />
+        <state relative-caret-position="345">
+          <caret line="525" column="48" selection-start-line="525" selection-start-column="48" selection-end-line="525" selection-end-column="48" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#31129#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Floyd.java">
+    <entry file="jar://D:/jdk/lib/src.zip!/java.base/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="518">
-          <caret line="77" column="65" selection-start-line="77" selection-start-column="65" selection-end-line="77" selection-end-column="65" />
-=======
-        <state relative-caret-position="210">
-          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
->>>>>>> 79154b2ed3141a64b3f8313247e2b16097ce0f15
+        <state relative-caret-position="324">
+          <caret line="524" column="43" selection-start-line="524" selection-start-column="43" selection-end-line="524" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1102,7 +355,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>GuideMap</last-edited>
+          <last-edited>GUIDE</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1114,7 +367,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>mysql-connector-java-8.0.16</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
