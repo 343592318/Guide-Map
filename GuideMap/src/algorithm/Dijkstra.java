@@ -97,7 +97,7 @@ public class Dijkstra implements Algorithm{
 
     }
 
-    public int search_min(int[] D,int[] S,int k) {
+    private int search_min(int[] D,int[] S,int k) {
         int min = -1;	//若为非连通图，则返回-1
         int m = MAX;
         for (int i = 0; i < spotMessageArrayList.size(); i++)
