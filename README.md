@@ -3,7 +3,7 @@
 ##  大一暑期校园导航系统 JAVA SWING MYSQL项目
 
 
-### 数据库使用Mysql 数据库备份文件请使用主目录下的guide.map文件
+### 数据库使用Mysql 数据库备份文件请使用主目录下MYSQL文件夹下SQLyog的工具恢复guide.map文件
 
 ### 新增功能:
 
