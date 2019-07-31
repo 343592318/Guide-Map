@@ -255,7 +255,7 @@ public class LoginFrame {
                 try {
                     System.out.println(name.getSelectedItem().toString() + password.getText());
                     if (name.getSelectedItem().toString().equals("admin")) {
-                        if (password.getText().equals("123456")) {
+                        if (password.getText().equals("123")) {
                             JOptionPane.showMessageDialog(jFrame, "登陆成功!");
                             jFrame.setVisible(false);
                             UserMessage userMessage1 = new UserMessage();

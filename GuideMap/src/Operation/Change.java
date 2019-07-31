@@ -123,12 +123,13 @@ public class Change {
         jButton.addActionListener(new AbstractAction() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String newname = jf1.getText();
+                String name = jf1.getText();
                 try {
                     Connection conn = DbUtils.getConnection();
+                    assert conn != null;
                     conn.setAutoCommit(false);
                     try (PreparedStatement preparedStatement = conn.prepareStatement("update road set start = ? where start = ?")) {
-                        preparedStatement.setString(1, newname);
+                        preparedStatement.setString(1, name);
                         preparedStatement.setString(2, name);
                         int rs = preparedStatement.executeUpdate();
                     } catch (Exception e2) {
@@ -136,7 +137,7 @@ public class Change {
                         e2.printStackTrace();
                     }
                     try (PreparedStatement preparedStatement = conn.prepareStatement("update road set end = ? where end = ?")) {
-                        preparedStatement.setString(1, newname);
+                        preparedStatement.setString(1, name);
                         preparedStatement.setString(2, name);
                         int rs = preparedStatement.executeUpdate();
                         if (rs != 0) {
@@ -150,14 +151,14 @@ public class Change {
                     try (PreparedStatement preparedStatement = conn.prepareStatement(
                             "update spot set name = ?,introduction = ?,phonenumber = ?,nature = ? where name = ?"
                     )) {
-                        preparedStatement.setString(1, newname);
+                        preparedStatement.setString(1, name);
                         preparedStatement.setString(2, jf3.getText());
                         preparedStatement.setString(3, jf2.getText());
                         preparedStatement.setString(4, jComboBox.getSelectedItem().toString());
                         preparedStatement.setString(5, name);
                         for (SpotMessage spotMessage : arrayList) {
                             if (spotMessage.getName().equals(name)) {
-                                spotMessage.setName(newname);
+                                spotMessage.setName(name);
                                 spotMessage.setPhonenumber(jf2.getText());
                                 spotMessage.setIntroduction(jf3.getText());
                                 spotMessage.setNuture(jComboBox.getSelectedItem().toString());
