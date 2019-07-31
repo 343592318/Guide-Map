@@ -1,5 +1,4 @@
 package Message;
-
 public class SpotMessage {
     private double x;
     private double y;
@@ -7,6 +6,9 @@ public class SpotMessage {
     private String nuture;
     private String phonenumber;
     private String introduction;
+
+    public SpotMessage() {
+    }
 
     public void setX(double x) {
         this.x = x;
@@ -71,5 +73,9 @@ public class SpotMessage {
         SpotMessage spotMessage = new SpotMessage();
         spotMessage.setName(name);
         return spotMessage;
+    }
+
+    public String toString() {
+        return "SpotMessage(x=" + this.getX() + ", y=" + this.getY() + ", name=" + this.getName() + ", nuture=" + this.getNuture() + ", phonenumber=" + this.getPhonenumber() + ", introduction=" + this.getIntroduction() + ")";
     }
 }

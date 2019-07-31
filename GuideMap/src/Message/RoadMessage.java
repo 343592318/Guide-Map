@@ -1,5 +1,4 @@
 package Message;
-
 public class RoadMessage {
     private int x1, x2, y1, y2;
     private SpotMessage start_spot;
@@ -98,5 +97,25 @@ public class RoadMessage {
         RoadMessage roadMessage = new RoadMessage();
         roadMessage.setName(name);
         return roadMessage;
+    }
+
+    public void setX1(int x1) {
+        this.x1 = x1;
+    }
+
+    public void setX2(int x2) {
+        this.x2 = x2;
+    }
+
+    public void setY1(int y1) {
+        this.y1 = y1;
+    }
+
+    public void setY2(int y2) {
+        this.y2 = y2;
+    }
+
+    public String toString() {
+        return "RoadMessage(x1=" + this.getX1() + ", x2=" + this.getX2() + ", y1=" + this.getY1() + ", y2=" + this.getY2() + ", start_spot=" + this.getStart_spot() + ", end_spot=" + this.getEnd_spot() + ", name=" + this.getName() + ", length=" + this.getLength() + ", meihua=" + this.getMeihua() + ", lvhua=" + this.getLvhua() + ")";
     }
 }
