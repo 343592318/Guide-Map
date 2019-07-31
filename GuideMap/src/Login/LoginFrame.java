@@ -16,6 +16,7 @@ import java.awt.event.*;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.Enumeration;
+import java.util.Objects;
 import javax.swing.JButton;
 import javax.swing.plaf.FontUIResource;
 
@@ -36,12 +37,12 @@ public class LoginFrame {
 
         jFrame.setResizable(false);
         ImageIcon background = new ImageIcon("Resources/背景6.jpg");
+        JPanel backgrounded = (JPanel) jFrame.getContentPane();
         JLabel jLabel = new JLabel(background);
         jLabel.setBounds(0, 0, 500, 400);
-        JPanel backgroundpanel = (JPanel) jFrame.getContentPane();
-        backgroundpanel.setOpaque(false);
+        backgrounded.setOpaque(false);
         jFrame.getLayeredPane().setLayout(null);
-        jFrame.getLayeredPane().add(jLabel, new Integer(Integer.MIN_VALUE));
+        jFrame.getLayeredPane().add(jLabel, Integer.valueOf(Integer.MIN_VALUE));
 
         autologin = new JCheckBox("自动登陆");
         rememberoassword = new JCheckBox("记住密码");
@@ -95,9 +96,9 @@ public class LoginFrame {
             @Override
             public void itemStateChanged(ItemEvent e) {
                 if (e.getStateChange() == ItemEvent.SELECTED) {
-                    String nowname = e.getItem().toString();
+                    String name = e.getItem().toString();
                     for (UserMessage item : arrayList) {
-                        if (item.getName().equals(nowname)) {
+                        if (item.getName().equals(name)) {
                             if (item.getRememberpassword() == 1) {
                                 quanxian = true;
                                 //password.setText(item.getPassword());
@@ -128,6 +129,7 @@ public class LoginFrame {
             @Override
             public void focusGained(FocusEvent e) {
                 password.setText("");
+                quanxian = false;
             }
 
             @Override
@@ -141,10 +143,10 @@ public class LoginFrame {
                 JCheckBox jCheckBox = (JCheckBox) e.getItem();
                 if (jCheckBox.isSelected()) {
                     new SaveUserMessage().autoReset();
-                    String nowname = name.getSelectedItem().toString();
+                    String name = LoginFrame.this.name.getSelectedItem().toString();
                     UserMessage temp = null;
                     for (UserMessage userMessage : arrayList) {
-                        if (userMessage.getName().equals(nowname)) {
+                        if (userMessage.getName().equals(name)) {
                             temp = userMessage;
                             break;
                         }
@@ -165,10 +167,10 @@ public class LoginFrame {
                         }
                     }
                 } else {
-                    String nowname = name.getSelectedItem().toString();
+                    String name = LoginFrame.this.name.getSelectedItem().toString();
                     UserMessage temp = null;
                     for (UserMessage item : arrayList) {
-                        if (item.getName().equals(nowname)) {
+                        if (item.getName().equals(name)) {
                             temp = item;
                             break;
                         }
@@ -187,10 +189,10 @@ public class LoginFrame {
             public void itemStateChanged(ItemEvent e) {
                 JCheckBox jCheckBox = (JCheckBox) e.getItem();
                 if (jCheckBox.isSelected()) {
-                    String nowname = name.getSelectedItem().toString();
+                    String name = LoginFrame.this.name.getSelectedItem().toString();
                     UserMessage temp = null;
                     for (UserMessage userMessage :arrayList) {
-                        if (userMessage.getName().equals(nowname)) {
+                        if (userMessage.getName().equals(name)) {
                             temp = userMessage;
                             break;
                         }
@@ -212,10 +214,10 @@ public class LoginFrame {
                         }
                     }
                 } else {
-                    String nowname = name.getSelectedItem().toString();
+                    String name = Objects.requireNonNull(LoginFrame.this.name.getSelectedItem()).toString();
                     UserMessage temp = null;
                     for (UserMessage item : arrayList) {
-                        if (item.getName().equals(nowname)) {
+                        if (item.getName().equals(name)) {
                             temp = item;
                             break;
                         }
@@ -292,23 +294,23 @@ public class LoginFrame {
         JLabel jl3 = new JLabel(new ImageIcon("Resources/地图标示.png"));
         jl3.setFont(new Font("楷体", 0, 19));
         jFrame.setLayout(null);
-        backgroundpanel.add(autologin);
-        backgroundpanel.add(rememberoassword);
+        backgrounded.add(autologin);
+        backgrounded.add(rememberoassword);
         rememberoassword.setBounds(260, 188, 80, 30);
         autologin.setBounds(100, 188, 80, 30);
         autologin.setForeground(new Color(2));
         rememberoassword.setForeground(new Color(2));
-        backgroundpanel.add(jl1);
+        backgrounded.add(jl1);
         jl1.setBounds(45, 100, 60, 30);
-        backgroundpanel.add(jl2);
+        backgrounded.add(jl2);
         jl2.setBounds(45, 150, 60, 30);
-        backgroundpanel.add(jl3);
+        backgrounded.add(jl3);
         jl3.setBounds(177, 10, 75, 75);
 
-        backgroundpanel.add(name);
+        backgrounded.add(name);
         name.setBounds(100, 100, 250, 30);
-        backgroundpanel.add(password);
-        backgroundpanel.add(loginButton);
+        backgrounded.add(password);
+        backgrounded.add(loginButton);
         loginButton.setBounds(115, 230, 200, 42);
         nimingButton.setBounds(340, 270, 80, 33);
         nimingButton.setOpaque(false);
@@ -319,8 +321,8 @@ public class LoginFrame {
         zhuce.setBorder(BorderFactory.createEmptyBorder());
         zhuce.setContentAreaFilled(false);
 
-        backgroundpanel.add(nimingButton);
-        backgroundpanel.add(zhuce);
+        backgrounded.add(nimingButton);
+        backgrounded.add(zhuce);
 
         password.setBounds(100, 150, 250, 30);
 

@@ -11,13 +11,9 @@ import Message.UserMessage;
 import Operation.*;
 import algorithm.*;
 
-import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.net.JarURLConnection;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
@@ -833,7 +829,7 @@ public class UserFrame extends JFrame {
                 algorithm = new Greening(list, list_road, qidian, zhongdian);
                 break;
         }
-        ArrayList<String> result = algorithm.doalgorithm();
+        ArrayList<String> result = algorithm.doAlgorithm();
         String lujing = result.get(0);
         for (int i = 1; i < result.size(); i++) {
             lujing = lujing + " --> " + result.get(i);

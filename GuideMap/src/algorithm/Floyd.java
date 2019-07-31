@@ -23,7 +23,7 @@ public class Floyd implements Algorithm{
         this.spotMessageArrayList = spotMessageArrayList;
     }
 
-    public ArrayList<String> doalgorithm() {
+    public ArrayList<String> doAlgorithm() {
 //        for (SpotMessage spotMessage : spotMessageArrayList) {
 //            System.out.println(spotMessage.getName());
 //        }

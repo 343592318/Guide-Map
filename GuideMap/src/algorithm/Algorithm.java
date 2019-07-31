@@ -3,5 +3,5 @@ package algorithm;
 import java.util.ArrayList;
 
 public interface Algorithm {
-    public ArrayList<String> doalgorithm();
+    public ArrayList<String> doAlgorithm();
 }

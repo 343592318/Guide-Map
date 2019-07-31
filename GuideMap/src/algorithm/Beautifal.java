@@ -4,10 +4,7 @@ import Message.LinkedNode;
 import Message.RoadMessage;
 import Message.SpotMessage;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
 
 public class Beautifal implements Algorithm {
     private final int MAX = 99999999;
@@ -17,7 +14,7 @@ public class Beautifal implements Algorithm {
     private int max = 0;
     private ArrayList<SpotMessage> spotMessageArrayList = null;
     private ArrayList<RoadMessage> roadMessageArrayList = null;
-    private ArrayList<String> minlist = new ArrayList<>();
+    private ArrayList<String> minList = new ArrayList<>();
     private boolean flag[] = new boolean[100];
     LinkedNode[] queue = new LinkedNode[1000];
     private int qidian;
@@ -31,7 +28,7 @@ public class Beautifal implements Algorithm {
         this.spotMessageArrayList = spotMessageArrayList;
     }
 
-    public ArrayList<String> doalgorithm() {
+    public ArrayList<String> doAlgorithm() {
         for (SpotMessage spotMessage : spotMessageArrayList) {
             System.out.println(spotMessage.getName());
         }
@@ -61,8 +58,8 @@ public class Beautifal implements Algorithm {
 
         flag[qidian] = true;
         dfs(0, qidian, 0);
-        minlist.add(spotMessageArrayList.get(zhongdian).getName());
-        return minlist;
+        minList.add(spotMessageArrayList.get(zhongdian).getName());
+        return minList;
     }
 
     private void dfs(int step, int pos, int sum) {
@@ -70,10 +67,10 @@ public class Beautifal implements Algorithm {
         if (pos == zhongdian) {
             sum += Search(spotMessageArrayList.get(pos), spotMessageArrayList.get(zhongdian));
             if (sum > max) {
-                minlist.clear();
-                minlist.add(spotMessageArrayList.get(qidian).getName());
+                minList.clear();
+                minList.add(spotMessageArrayList.get(qidian).getName());
                 for (int i = 0; i < step - 1; i++) {
-                    minlist.add(spotMessageArrayList.get(dis[i]).getName());
+                    minList.add(spotMessageArrayList.get(dis[i]).getName());
                 }
             }
         } else {

@@ -26,7 +26,7 @@ public class Dijkstra implements Algorithm{
         this.spotMessageArrayList = spotMessageArrayList;
     }
 
-    public ArrayList<String> doalgorithm() {
+    public ArrayList<String> doAlgorithm() {
         int temp = qidian;
         qidian = zhongdian;
         zhongdian = temp;
